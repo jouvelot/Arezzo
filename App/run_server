@@ -1,0 +1,6 @@
+if [`ps | grep 'java.*cnpmusic.arezzo.Server localhost$' | wc -l` -ge 1 ] ; then
+   echo "Arezzo server still running; please kill it before starting a new server"
+   exit 1
+fi
+
+java -cp server.jar:jsdt.jar:mail.jar:bundle.jar cnpmusic.arezzo.Server localhost

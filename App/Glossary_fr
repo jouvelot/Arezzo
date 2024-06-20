@@ -1,0 +1,106 @@
+#
+Dièze.
+x
+Double dièze.
+accord
+Un groupe de notes, 4 en harmonie classique, qui sont jouées simultanément.
+altération
+Une modification locale de la hauteur d'une note (bb, b, #, x) en soustrayant ou ajoutant des intervalles, en l'occurence (-2, -1, 1, 2). 
+alto
+La seconde voix aigue d'un accord.
+augmenté
+Caractérise un intervalle dans lequel les altérations diffèrent d'une unité, comme par exemple dans Do et Re#.
+b
+Bémol.
+basse
+La dernière voix d'un accord, ayant la hauteur la plus basse.
+chiffrage
+Une indication décrivant une structure particulière d'un accord. 5 représnte un accord à l'état fondamental, 6 est une sixte ety 6/4/ une sixte-et-quarte.
+contrepoint
+La science de la combinaison de différentes mélodies.
+degré
+La position de la basse d'un accord par rapport à la tonique. La tonique est I, la dominante V et la sensible VII.
+diminué
+Un intervalle en dessous d'un intervalle mineur pour les tierces, ou en dessous d'un intervalle parfait pour les quintes et les quartes.
+do
+(Voir note).
+dominante
+La note la plus importante après la tonique, usuellement associée à un sentiment de tension. Elle est une quinte au dessus de la tonique : par exemple, Sol est la dominante de Do.
+durée
+La longueur d'une note. Elle est mesurée en fractions de la note la plus longue, une ronde.
+espèce
+Caractérise le genre de contrepoint. Dans un contrepoint de première espèce, seules les mélodies d'une note contre une note sont autorisées. Pour la seconde espèce, on utiliser deux notes contre une, et ainsi de suite.
+étranger
+Une note ou intervalle incompatible avec la tonalité courante. C'est un facteur subtil pour le mode mineur, dans lequel les notes d'un intervalle ascendant (resp. descendant) doivent appartenir au mode mélodique ascendant (resp. descendant).
+fa
+(Voir note).
+bémol
+L'altération bémol qui abaisse une hauteur d'un intervalle. Peut être doublée en bb.
+quarte
+Une distance de 3 tons, par exemple entre Do et Fa.
+quinte
+Une distance de 4 tons, par exemple entre Do et Sol.
+fondamental
+La structure d'accord la plus simple. Elle utilise les notes de la basse, sa tièrce majeure ou mineure en fonction de la tonalité, et sa quinte parfaite.
+harmonie
+L'art de la progression des accords dans le temps, appelée aussi structure 'verticale' de la musique. Elle caractérise une musique, en partenariat avec la mélodie et le rythme.
+intervalle
+La distance entre deux clés consécutives, indépendamment de leurs couleurs, sur un clavier.
+renversement
+La structure d'un accord ne se trouvant pas dans l'état fondamental.
+la
+(Voir note).
+sensible
+La note qui conduit à la tonique, comme Si en Do majeur.
+majeur
+La gamme la plus courante, fondée sur la séquence (2, 2, 1, 2, 2, 2, 1) d'intervalles.
+mélodie
+L'art de la progression des notes, appelée aussi structure 'horizontale' de la musique. Elle caractérise une musique, en partenariat avec la mélodie et le rythme.
+mi
+(Voir note).
+mineur
+La gamme la plus fréquente après le mode majeur, fondée sur la séquence (2, 1, 2, 2, 1, 3, 1) d'intervalles.
+mode
+Caractérise la tonalité. Il peut être majeur ou mineur.
+note
+Une représentation approchée et abstraite des caractéristiques d'un son : hauteur et durée. Les notes peuvent être représentées par des lettres (A, B, C, D, E, F, G) ou des noms (Do, Re, Mi, Fa, Sol, La, Si).
+octave
+Un accord formé de deux notes séparées de 12 intervalles, comme de Do à Do.
+parfait
+Pas diminué. Est applicable aux quintes ou aux quartes.
+hateur
+Mesure si un son est aigu ou grave. Par exemple, une flute est de hauteur élevée, tandis qu'un tuba est de hauteur basse.
+ré
+(Voir note).
+rythme
+La structure de la progression du temps. Il caractérise la musique, en partenariat avec la mélodie et l'harmonie.
+gamme
+Une séquence d'intervalles qui définit un mode.
+seconde
+Une distance d'un intervalle, par exemple entre Do et Re.
+dièze
+L'altération # qui élève une hauteur d'un intervalle. Peut être doublée en x.
+si
+(Voir note).
+sixte
+Le premier renversement d'un accord, par exemple Mi-Sol-Do à la place de Do-Mi-Sol.
+sixte-et-quarte
+Le seconde renversement d'un accord, par exemple Sol-Do-Mi à la place de Do-Mi-Sol.
+sol
+(Voir note).
+soprano
+La première voix d'un accord, de hauteur maximale.
+sous-dominante
+La note précédant la dominante, par exemple Fa est la sous-dominante de Do.
+tierce
+Une distance de deux tons, par exemple entre Do et Mi, et qui correspond à 4 intervalles dans le mode majeur et 3 dans le mode mineur.
+ténor
+La troisième voix d'un accord.
+tonalité
+Définit les notes clés d'une musique, en particulier la tonique et la dominante, en conjonction avec le mode.
+ton
+Distance de un ou deux intervalles, en fonction du mode.
+tonique
+La note la plus importante d'une tonalité, usuellement associée à un sentiment de repos.
+voix
+Un flux continu de notes. Il y a qutre voix dans l'harmonie traditionnelle : soprano, alto, ténor et basse.

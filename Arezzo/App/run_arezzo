@@ -1,0 +1,8 @@
+java -cp applet.jar:jsdt.jar:mail.jar:bundle.jar \
+     cnpmusic.arezzo.DummyAppletContext \
+     -width 200 \
+     -height 200 \
+     language fr \
+     country FR \
+     user_name guest
+     

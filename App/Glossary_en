@@ -1,0 +1,108 @@
+#
+Sharp.
+x
+Double sharp.
+alteration
+A local modification of a note pitch (bb, b, #, x) by substracting or adding intervals, namely (-2, -1, 1, 2).
+alto
+The second high voice in a chord.
+augmente
+Characterizes an interval where the alterations differ by one, such as C and D#
+b
+Flat.
+bass
+The last voice in a chord, of lowest pitch.
+chiffrage
+An indication of a particular chord structure. 5 denotes a chord in its fundamental structure. 6 is a sixth and 6/4 a sixth-and-quart.
+chord
+A group of notes, 4 in classical harmony, to be played simultaneously.
+counterpoint
+The science of combining different melodies.
+degree
+The position of the bass of a chord with respect to the tonic, noted with roman numerals.  The tonic is I, the dominant V and the leading tone VII.
+diminished
+One interval below minor for thirds, or below perfect for fifths and fourths.
+do
+(See note).
+dominant
+The second most important note in a tonality, after the tonic, usually associated with a feeling of tension. It is one fifth above the tonic, e.g. G is the dominant of C.
+duration
+The length of a note.  It is measured in fractions of the longest one, a 'ronde' or 'whole note'.
+fa
+(See note).
+flat
+The alteration b that lowers a pitch by 1 interval. Can be doubled as bb.
+fourth
+A distance of 3 tones, e.g., between C and F.
+fifth
+A distance of 4 tones, e.g., between C and G.
+foreign
+A note or intervalle that is not compatible with the current tonality. This is specially an issue in the minor mode, in which an ascending second must belong to the ascendant melodic mode, while a descending one belongs to the descendant one.
+fundamental
+The simplest chord structure. It uses notes from the bass, its major or minor third, according to the current tonality, and its perfect fifth.
+harmony
+The art of chord progression, or the 'vertical' structure of music. It characterizes music, together wih melody and rythm.
+interval
+The distance between two consecutive keys, independently of color, on a keyboard.
+inversion
+The structure of a chord when not in its fundamental state.
+la
+(See note).
+leading
+The note that leads to the tonic, such as B in C Major. Also called the sensible.
+major
+The most common scale, based on the sequence {2, 2, 1, 2, 2, 2, 1} of intervals.
+melody
+The art of tune progression, or the 'horizontal' structure of music. It characterizes music, together with harmony and rythm.
+mi
+(See note).
+minor
+The second most common scale, based on the sequence {2, 1, 2, 2, 1, 3, 1} of intervals.
+mode
+A property of tonality. It can either be major or minor.
+note
+An abstract and approximate representation of a sound characteristics: pitch and duration.  Notes can be denoted by letters (A, B, C, D, E, F, G) or names (Do, Re, Mi, Fa, Sol, La, Si).
+octave
+A two-note chord made separated by 12 intervals, such as C and its higher sibling C.
+perfect
+Not diminished. This is applicable to fifths or fourths.
+pitch
+A measure of how high or low a sound is. For instance, a flute has a high pitch, while a tuba as a low one.
+re
+(See note).
+rythm
+The structure of time progression. It characterizes music, together with melody and harmony.
+scale
+The sequence of intervals that defines a mode.
+second
+A distance of 1 interval, e.g. between C and D.
+sensible
+(See leading tone.)
+sharp
+The alteration # that raises a pitch by 1 interval. Can be doubled as X.
+si
+(See note).
+sixth
+The first inversion of a chord, e.g., E-G-C instead of the fundamental C-E-G.
+sixth-and-fourth
+The second inversion of a chord, e.g. G-C-E instead of C-E-G.
+sol
+(See note).
+soprano
+The first voice in a chord, of highest pitch.
+species
+Caracterizes the counterpoint. First species only allow note over note melodies. Second species allows two notes against one note, and so on.
+subdominant
+The note before the dominant, e.g. F is the subdominant for C.
+third
+A distance of 2 tones, e.g. between C and D, corresponding to 4 intervals in the major mode and 3 in the minor mode.
+tenor
+The third high voice in a chord.
+tonality
+Defines the important notes in music, in particular the tonic and dominant, together with the mode.
+tone
+Either one or two intervals, depending on the mode.
+tonic
+The most important note in a tonality, usually associated with a feeling of rest.
+voice
+A countinuous stream of notes. They are four voices in traditional harmony: soprano, alto, tenor and bass.
