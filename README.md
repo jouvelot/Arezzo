@@ -1,7 +1,7 @@
 # Arezzo
 The Arezzo classical harmony e-learning platform
 
-Copyright Mines Paris, Université PSL, décembre 2015
+Copyright Mines Paris, Université PSL, décembre 1998-2015
 
 Pour exécuter cette version d'Arezzo stand-alone (les outils de
 communications ne sont pas opérationnels), il convient : 
