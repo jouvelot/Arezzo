@@ -1,7 +1,13 @@
 # Arezzo
-The Arezzo classical harmony e-learning platform
+*The Arezzo classical harmony e-learning platform*
 
 Copyright Mines Paris, Université PSL, décembre 1998 - 2024
+
+Une version précédente d'Arezzo est décrite dans cet [article](https://www.researchgate.net/profile/Pierre-Jouvelot/publication/2510171_Music_Composer's_Workbench_vers_un_environnement_intelligent_de_l'enseignement_de_la_composition_tonale/links/5528e9dc0cf2779ab78e2915/Music-Composers-Workbench-vers-un-environnement-intelligent-de-lenseignement-de-la-composition-tonale.pd) de la conférence JIM'98. 
+
+**Attention** : ce code est fourni à but informatif uniquement. Son exécution demanderait une adaptation aux environnements logiciels contemporains.
+
+-----
 
 Pour exécuter cette version d'Arezzo stand-alone (les outils de
 communications ne sont pas opérationnels), il convient : 
